@@ -1,4 +1,6 @@
-.DS_STORE
+../../basic-regex/.DS_Store
+../../.DS_Store
 *.swp
 calculate
 obj/
+
